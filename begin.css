@@ -1,0 +1,46 @@
+.center{
+    
+    margin: 10%;
+    align-content: center;
+    width: 40%;
+    height: fit-content;
+    border: 2px solid ;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: rgb(53, 54, 54);
+    
+      
+}
+.buttons{
+    color: aqua;
+    box-sizing: 1%;
+    
+}
+body{
+    background-color: rgb(21, 22, 22);
+}
+p{
+    color: greenyellow;
+    font-size: 250%;
+}
+h1{
+    color: greenyellow;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 300%;
+}
+h6{
+    font-size: x-small;
+    color: whitesmoke;
+}
+
+h4{
+    font-size: medium;
+    color: whitesmoke;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: x-small;
+    color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
